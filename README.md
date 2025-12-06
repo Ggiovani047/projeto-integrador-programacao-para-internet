@@ -1,10 +1,10 @@
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ceylon/ceylon-plain.svg" width="50" style="vertical-align:middle;"/> Projeto Integrador de Programação para Internet
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" style="vertical-align:middle;"/> Curso de CSS e Flexbox de Programação para Internet
 
-Este é o repositório do meu Projeto Integrador da matéria de Programação para Internet, do curso de GTI, da Fatec Jahu. (Projeto em desenvolvimento).
+Este é o repositório do curso de CSS e flexbox, realizado como atividade da matéria de Programação para Internet, do curso de GTI, da Fatec Jahu.
 <br>
 <br>
-O projeto esrtá sendo desenvolvido em HTML, CSS e PHP.
+O projeto foi desenvolvido em HTML e CSS.
 <br>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  width="150" style="vertical-align:middle;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="150" style="vertical-align:middle;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="150" style="vertical-align:middle;"/>
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  width="150" style="vertical-align:middle;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="150" style="vertical-align:middle;"/> 
